@@ -4,7 +4,7 @@ Apt 202, 05 Marechal Andrea Ave, Porto Alegre, RS 91340-400, Brazil.\
 +55 (51) 99883-8883, rogerpolvr@gmail.com
 
 ## About
-Roger is a Software Developer that works mainly with .NET technologies and also the JavaScript stack, applying ReactJS to renew the UI / UX of legacy systems. Roger graduated in Software Analysis and Development after winning a scholarship (PROUNI) with his ranking in the National High School Exam (ENEM) and is currently taking a Lato Sensu Postgraduate course in Data Science and Machine Learning, with a scholarship sponsored by HP Inc.
+Roger is a Software Developer that works mainly with .NET technologies and also the JavaScript stack, applying ReactJS to renew the UI / UX of legacy systems. Roger graduated in Software Analysis and Development after winning a scholarship (PROUNI) with his ranking in the National High School Exam (ENEM) and is currently taking a Lato Sensu Postgraduate course in Data Science and Machine Learning.
 
 ## Experience
 ### [Dell](https://www.dell.com) - Software Engineer
