@@ -1,4 +1,4 @@
-# Roger Pereira Oliveira
+# Roger Oliveira
 ### Software Developer
 Apt 202, 05 Marechal Andrea Ave, Porto Alegre, RS 91340-400, Brazil.\
 +55 (51) 99883-8883, rogerpolvr@gmail.com
