@@ -171,71 +171,13 @@
             "name": "EF SET English Certificate 73/100 (C2 Proficient)",
             "institution": "EF SET",
             "date": "May 2024"
-        },
-        {
-            "name": "NLW Expert Python Track",
-            "institution": "Rocketseat",
-            "date": "Feb 2024"
-        },
-        {
-            "name": "Development of Modern and Scalable Applications with Microservices",
-            "institution": "Full Cycle",
-            "date": "Mar 2022"
-        },
-        {
-            "name": "JavaScript Fullstack Bootcamp",
-            "institution": "Rocketseat",
-            "date": "Oct 2020"
-        },
-        {
-            "name": ".NET Bootcamp",
-            "institution": "Alura",
-            "date": "Sep 2020"
-        },
-        {
-            "name": "React JS Bootcamp",
-            "institution": "Alura",
-            "date": "Sep 2020"
-        },
-        {
-            "name": "Professional Qualification Certificate in Digital Entrepreneurship and IT Management",
-            "institution": "FIAP",
-            "date": "Dec 2019"
-        },
-        {
-            "name": "Professional Qualification Certificate in Mobile Application Development",
-            "institution": "FIAP",
-            "date": "Dec 2019"
-        },
-        {
-            "name": "Professional Qualification Certificate in System Analysis and Web Prototyping",
-            "institution": "FIAP",
-            "date": "Jan 2019"
-        },
-        {
-            "name": "Professional Qualification Certificate in Web 2.0 Developer and Designer",
-            "institution": "FIAP",
-            "date": "Jan 2019"
         }
     ],
     "languages": [
         "Portuguese: Native",
         "English: C2 Proficient (EF SET)"
     ],
-    "volunteering": [
-        {
-            "role": "Pride Core Team",
-            "organization": "HP",
-            "date": "May 2017 - May 2019",
-            "description": "Supported the community inside and outside HP by organizing workshops with psychologists and field specialists on history, gender expression, gender identity, and sexual and emotional orientation, while also coordinating donations for LGBTQI people at risk."
-        },
-        {
-            "role": "Hour of Code Instructor",
-            "organization": "HP",
-            "date": "May 2018 - Apr 2019",
-            "description": "Visited the Amparo Santa Cruz Institution in Porto Alegre every two weeks to teach programming classes for adolescents from the local community, helping students build better life choices through technology."
-        }
-    ],
+    "volunteering": [],
     "opensource": [
         {
             "project": "Deno - Standard Library",

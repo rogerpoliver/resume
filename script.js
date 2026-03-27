@@ -71,29 +71,39 @@ fetch("data.json")
         const certificationsContainer = document.getElementById(
             "certifications",
         );
-        data.certifications.forEach((cert) => {
-            const li = document.createElement("li");
-            li.textContent =
-                `${cert.name} - ${cert.institution} (${cert.date})`;
-            certificationsContainer.appendChild(li);
-        });
+        if (data.certifications.length) {
+            data.certifications.forEach((cert) => {
+                const li = document.createElement("li");
+                li.textContent =
+                    `${cert.name} - ${cert.institution} (${cert.date})`;
+                certificationsContainer.appendChild(li);
+            });
+        } else {
+            certificationsContainer.closest(".resume-section").style.display =
+                "none";
+        }
 
         document.getElementById("languages").innerHTML = data.languages
             .map((language) => `<span class="pill">${language}</span>`)
             .join("");
 
         const volunteeringContainer = document.getElementById("volunteering");
-        data.volunteering.forEach((volunteer) => {
-            const div = document.createElement("div");
-            div.className = "entry-card compact";
-            div.innerHTML = `
+        if (data.volunteering.length) {
+            data.volunteering.forEach((volunteer) => {
+                const div = document.createElement("div");
+                div.className = "entry-card compact";
+                div.innerHTML = `
     <h3>${volunteer.role}</h3>
     <p class="entry-subtitle">${volunteer.organization}</p>
     <p class="date">${volunteer.date}</p>
     <p>${volunteer.description}</p>
   `;
-            volunteeringContainer.appendChild(div);
-        });
+                volunteeringContainer.appendChild(div);
+            });
+        } else {
+            volunteeringContainer.closest(".resume-section").style.display =
+                "none";
+        }
 
         const opensourceContainer = document.getElementById("opensource");
         data.opensource.forEach((contribution) => {
