@@ -1,20 +1,20 @@
 {
     "name": "Roger Oliveira",
-    "title": "AI Applied Engineer",
+    "title": "AI Engineer",
     "location": "Porto Alegre, Rio Grande do Sul, Brazil",
     "phone": "+55 (051) 9 9883 8883",
     "email": "roger.dev.br@gmail.com",
     "linkedin": "https://www.linkedin.com/in/rogerpoliver/",
     "github": "https://github.com/rogerpoliver",
-    "summary": "I am an AI Applied Engineer and software developer with experience since 2015 building products and internal platforms across both large companies and startup environments. My background combines full-stack engineering, distributed systems, micro frontends, and applied AI, with recent work centered on LLM-powered workflows, RAG pipelines, MCP servers, and agent-based developer tooling. I help teams apply stronger SDLC practices and approaches such as Spec-Driven Development to turn AI into a reliable engineering capability, reducing rework and improving delivery quality. I hold a degree in Systems Analysis and Development from FIAP, along with postgraduate studies in Data Science, Software Engineering, Mobile Development, and Leadership and People Management.",
+    "summary": "I am an AI Engineer and software developer with experience since 2015 building products and internal platforms across both large companies and startup environments. My background combines full-stack engineering, distributed systems, micro frontends, and applied AI, with recent work centered on LLM-powered workflows, RAG pipelines, MCP servers, and agent-based developer tooling. I help teams apply stronger SDLC practices and approaches such as Spec-Driven Development to turn AI into a reliable engineering capability, reducing rework and improving delivery quality. I hold a degree in Systems Analysis and Development from FIAP, along with postgraduate studies in Data Science, Software Engineering, Mobile Development, and Leadership and People Management.",
     "experience": [
         {
             "company": "ADP Brazil Labs",
             "date": "May 2022 - Present",
             "roles": [
                 {
-                    "title": "AI Applied Engineer",
-                    "date": "2025 - Present",
+                    "title": "AI Engineer",
+                    "date": "Jan 2025 - Present",
                     "tasks": [
                         "Build applied AI solutions that transform unstructured data into structured outputs using React.js, Python, FastAPI, and LLM families such as GPT, Claude, Mistral, and Qwen.",
                         "Help engineering teams apply stronger SDLC practices and approaches such as Spec-Driven Development, using AI with clearer specifications, review loops, and measurable outcomes instead of undisciplined workflows (\"Vibe Coding\").",
@@ -23,7 +23,7 @@
                 },
                 {
                     "title": "Senior Developer",
-                    "date": "May 2022 - 2024",
+                    "date": "May 2022 - Dec 2024",
                     "tasks": [
                         "Delivered value as a full-stack engineer by modernizing the RUN HR module from PHP MVC to Node.js microservices and React.js micro frontends.",
                         "Contributed to a 634% increase in module adoption, 666% more engagement with new hire forms, more than 130K HR documents downloaded, and a 230% increase in Handbook publications.",
