@@ -1,22 +1,36 @@
 {
     "name": "Roger Oliveira",
-    "title": "Software Engineer",
+    "title": "AI Applied Engineer",
     "location": "Porto Alegre, Rio Grande do Sul, Brazil",
     "phone": "+55 (051) 9 9883 8883",
     "email": "roger.dev.br@gmail.com",
     "linkedin": "https://www.linkedin.com/in/rogerpoliver/",
     "github": "https://github.com/rogerpoliver",
-    "summary": "I am a software developer with experience since 2015 in both established corporations like HP, Dell, and ADP, as well as dynamic startup environments. My expertise covers a wide range of languages and frameworks. I hold a degree in Systems Analysis and Development from FIAP, along with postgraduate studies in Data Science, Software Engineering, and Mobile Development. Currently, I am studying Domain-Driven Design (DDD) and applying it to a project called '<a href=\"https://github.com/rogerpoliver/ddd-forum\" target=\"_blank\">DDD Forum</a>', available on my GitHub. I am driven by a passion for creating software that makes a meaningful impact, simplifying processes, and improving the lives of users and clients through innovative and efficient solutions.",
+    "summary": "I am an AI Applied Engineer and software developer with experience since 2015 building products and internal platforms across both large companies and startup environments. My background combines full-stack engineering, distributed systems, micro frontends, and applied AI, with recent work centered on LLM-powered workflows, RAG pipelines, MCP servers, and agent-based developer tooling. I help teams apply stronger SDLC practices and approaches such as Spec-Driven Development to turn AI into a reliable engineering capability, reducing rework and improving delivery quality. I hold a degree in Systems Analysis and Development from FIAP, along with postgraduate studies in Data Science, Software Engineering, Mobile Development, and Leadership and People Management.",
     "experience": [
         {
-            "title": "Senior Developer",
             "company": "ADP Brazil Labs",
             "date": "May 2022 - Present",
-            "tasks": [
-                "Developing agnostic micro front-end solutions using StencilJS, ensuring seamless integration with frameworks like React.js, Angular, and other SPA systems.",
-                "Optimizing backend operations through robust and efficient implementations in Node.js.",
-                "Created solutions to structure unstructured data, leveraging advanced Language Models like Mistral, GPT-3.5, and GPT-4 for enhanced user experiences and data workflows.",
-                "Contributing to the Embedded Payroll project by integrating systems into US banking platforms, addressing complex challenges related to security and multi-technology compatibility."
+            "roles": [
+                {
+                    "title": "AI Applied Engineer",
+                    "date": "2025 - Present",
+                    "tasks": [
+                        "Build applied AI solutions that transform unstructured data into structured outputs using React.js, Python, FastAPI, and LLM families such as GPT, Claude, Mistral, and Qwen.",
+                        "Help engineering teams apply stronger SDLC practices and approaches such as Spec-Driven Development, using AI with clearer specifications, review loops, and measurable outcomes instead of undisciplined workflows (\"Vibe Coding\").",
+                        "Build agentic workflows and AI-enabled developer tooling with frameworks and SDKs such as Mastra, Agno, AI SDK, GitHub Copilot SDK, MCP SDK, and Streamlit, with emphasis on reliability, reviewability, and engineering discipline."
+                    ]
+                },
+                {
+                    "title": "Senior Developer",
+                    "date": "May 2022 - 2024",
+                    "tasks": [
+                        "Delivered value as a full-stack engineer by modernizing the RUN HR module from PHP MVC to Node.js microservices and React.js micro frontends.",
+                        "Contributed to a 634% increase in module adoption, 666% more engagement with new hire forms, more than 130K HR documents downloaded, and a 230% increase in Handbook publications.",
+                        "Expanded the platform architecture with StencilJS-based micro frontends and Node.js services that supported broader product integrations, including Embedded Payroll.",
+                        "Worked across product modernization, platform integration, and frontend architecture in a large-scale enterprise environment."
+                    ]
+                }
             ]
         },
         {
@@ -24,9 +38,9 @@
             "company": "Equipe HUB",
             "date": "Nov 2021 - May 2022",
             "tasks": [
-                "Led the technical development of BuzzFeed Brazil's website and CMS, ensuring high-quality deliverables.",
-                "Managed a team of five developers, overseeing sprint planning, backlog prioritization, and team engagement.",
-                "Collaborated with BuzzFeed's global team to align local developments with international quality standards and practices."
+                "Acted as Technical Lead for BuzzFeed Brazil's website and CMS, owning delivery quality across the local platform.",
+                "Managed a team of five developers, including backlog prioritization, sprint planning, sprint reviews, and day-to-day delivery coordination.",
+                "Aligned development practices and product quality with BuzzFeed's global engineering team while coordinating with local partners and stakeholders."
             ]
         },
         {
@@ -34,9 +48,9 @@
             "company": "Dell Technologies",
             "date": "Sep 2021 - Nov 2021",
             "tasks": [
-                "Designed and implemented microservices tailored to meet the specific needs of LATAM Finance IT systems.",
-                "Collaborated with international teams from Latin America to ensure cohesive development across regions.",
-                "Contributed to the creation of critical microservices using .NET technologies, enhancing the software's performance and scalability."
+                "Designed and implemented .NET microservices for LATAM Finance IT systems with focus on scalability, performance, and business continuity.",
+                "Collaborated with teams across Panama, Colombia, Chile, and Argentina to support regional supply chain software requirements.",
+                "Delivered critical backend services in a short engagement, contributing quickly in a distributed enterprise environment."
             ]
         },
         {
@@ -44,46 +58,67 @@
             "company": "ESSS",
             "date": "Jun 2021 - Sep 2021",
             "tasks": [
-                "Developed advanced features for Rocky DEM, a 3D particle simulation desktop application.",
-                "Utilized C++ for API development and Python with QT for creating a user-friendly graphical interface.",
-                "Collaborated with multi-disciplinary teams to enhance simulation accuracy and performance."
+                "Developed features for Rocky DEM, a desktop application focused on 3D particle simulation.",
+                "Worked across C++ core APIs and Python 3.6 with Qt in the graphical interface of a specialized engineering product.",
+                "Contributed to product evolution in a highly technical environment that required close collaboration between software and engineering domains."
             ]
         },
         {
-            "title": "Software Design Engineer III",
-            "company": "HP inc",
-            "date": "Nov 2020 - Jun 2021",
-            "tasks": [
-                "Led the migration of a monolithic application to a cloud-native microservices architecture for the Protrack3 project.",
-                "Established automated testing standards, focusing on robust unit tests and front-end behavioral testing."
+            "company": "HP",
+            "date": "May 2017 - Jun 2021",
+            "roles": [
+                {
+                    "title": "Software Engineer III",
+                    "date": "Nov 2020 - Jun 2021",
+                    "tasks": [
+                        "Served as technical lead on the Protrack3 project, defining the migration from a self-hosted monolith to a cloud-native microservices architecture.",
+                        "Established stronger engineering quality practices by introducing backend unit tests and frontend behavior testing across the team."
+                    ]
+                },
+                {
+                    "title": "Software Engineer II",
+                    "date": "May 2019 - Oct 2020",
+                    "tasks": [
+                        "Maintained and evolved the Protrack2 ASP.NET application used to manage R&D hour reporting for the Brazilian Ministry of Science and Technology.",
+                        "Built a financial management module for project expenses, invoices, and accounting records, extending the platform's operational scope."
+                    ]
+                },
+                {
+                    "title": "Software Engineer I",
+                    "date": "May 2017 - Apr 2019",
+                    "tasks": [
+                        "Maintained a legacy ASP.NET Web Forms application as part of the Operations team, ensuring stability in a production environment.",
+                        "Supported software configuration management tasks including VM monitoring, repository administration, backups, and tape-based storage routines."
+                    ]
+                }
             ]
         },
         {
-            "title": "Software Design Engineer II",
-            "company": "HP inc",
-            "date": "May 2019 - Oct 2020",
+            "title": "Software Developer",
+            "company": "ACCERA - Supply and Sales Empowered",
+            "date": "Jan 2015 - Nov 2016",
             "tasks": [
-                "Enhanced and maintained features for the Protrack2 ASP.NET application, used for tracking R&D project hours.",
-                "Developed a financial management module for tracking project expenses and organizing critical accounting records."
+                "Worked with supply chain and sales data using Microsoft Excel and Microsoft SQL Server to support business reporting and analysis.",
+                "Automated recurring workflows with Python and shell scripting, improving internal productivity and reducing manual effort.",
+                "Supported reporting and data quality initiatives in customer-facing business contexts."
             ]
         },
         {
-            "title": "Software Design Engineer I",
-            "company": "HP inc",
-            "date": "May 2017 - Apr 2019",
+            "title": "Technical Support Engineer",
+            "company": "Sicoob",
+            "date": "2014",
             "tasks": [
-                "Maintained and supported a legacy ASP.NET Webforms application, ensuring its stability and reliability.",
-                "Assisted in software configuration management, including monitoring virtual machines and managing version control repositories."
+                "Provided technical support in a corporate banking environment.",
+                "Handled operational and end-user issues to help maintain day-to-day service continuity."
             ]
         },
         {
             "title": "Intern",
-            "company": "ACCERA, Supply and Sales Empowered",
-            "date": "Jan 2015 - Nov 2016",
+            "company": "Trensurb",
+            "date": "2012 - 2013",
             "tasks": [
-                "Analyzed and reported supply chain data using Microsoft Excel, delivering actionable insights.",
-                "Automated recurring tasks with Python and Shell Scripting, improving team productivity.",
-                "Managed and maintained databases with Microsoft SQL Server to ensure data integrity and accessibility."
+                "Started professional experience as an intern supporting internal activities and operational routines.",
+                "Built foundational experience working inside an established public transportation organization."
             ]
         }
     ],
@@ -102,13 +137,19 @@
         },
         {
             "degree": "Specialization Degree",
+            "field": "Computer Software Engineering",
+            "institution": "Unisinos",
+            "date": "2021 - 2022"
+        },
+        {
+            "degree": "Specialization Degree",
             "field": "Data Science",
             "institution": "UniRitter",
             "date": "2020 - 2021"
         },
         {
-            "degree": "Technologist Degree",
-            "field": "Computer Systems Analysis and Development",
+            "degree": "Associate of Science",
+            "field": "Computer Systems Analysis/Analyst",
             "institution": "FIAP",
             "date": "2017 - 2019"
         }
@@ -183,10 +224,16 @@
     ],
     "volunteering": [
         {
+            "role": "Pride Core Team",
+            "organization": "HP",
+            "date": "May 2017 - May 2019",
+            "description": "Supported the community inside and outside HP by organizing workshops with psychologists and field specialists on history, gender expression, gender identity, and sexual and emotional orientation, while also coordinating donations for LGBTQI people at risk."
+        },
+        {
             "role": "Hour of Code Instructor",
             "organization": "HP",
             "date": "May 2018 - Apr 2019",
-            "description": "Taught programming to teenagers from the local community at the Amparo Santa Cruz Institution in Porto Alegre. This initiative aimed to provide better opportunities and contribute to community development through programming education."
+            "description": "Visited the Amparo Santa Cruz Institution in Porto Alegre every two weeks to teach programming classes for adolescents from the local community, helping students build better life choices through technology."
         }
     ],
     "opensource": [
